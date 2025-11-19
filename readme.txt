@@ -1,0 +1,10 @@
+1. Lệnh để up lên git 
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tuanhiep29797/eProject.git
+git push -u origin main
+
+2.
