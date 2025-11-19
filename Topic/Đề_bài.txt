@@ -1,0 +1,34 @@
+The portal will be designed as a Single-Page-Application and responsive Website with
+a set of pages and menus that represent choice of activities to be performed. The
+pages, menus, and other visual elements must be designed in a visually appealing
+manner with attractive fonts, colors, and animations.
+
+All of these should also be laid out in a responsive manner
+The Web site is to be created based on the following requirements.
+
+1. The Top of the Page should be presented with a suitable logo and images
+   of Lights &amp; Chandeliers.
+2. The site must contain the various sections such as CEILING LIGHTS, WALL
+   LIGHTS, LAMPS, OUTDOOR LIGHTS, FANS and HOME ACCENTS etc.
+3. Section on LED Lights should be provided with various products listed such
+   as Spot Lights, Decoration Lights, Smart Lights etc.
+4. Specification and Pricing of Lights should be added along with the images.
+5. A menu on the Top with all sections listed should be provided.
+
+6. Website should provide section filter for various brands offered in the
+   store.
+7. Gallery section should be added for viewing different images.
+8. Feedback must be allowed to enter by the viewer
+9. Site map, Gallery, About us, FAQ link, Contact us must be added.
+10. The complete description must be allowed to get download as pdf or doc
+    file.
+11. Section for various offers in the store should be provided with listing of
+    offers with details.
+
+Over and above this, the portal should implement the following functionalities:
+
+ Display a continuous scrolling ticker at the bottom of the page with current date,
+time, and location (hint: Use geolocation features of HTML5).
+ Display a visitor count at the top right corner of the page beside a logo image.
+ The menu options should change color on hover and also after clicking.
+ Fade in and fade out options can be used for the menus.
