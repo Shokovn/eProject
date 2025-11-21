@@ -99,3 +99,24 @@ Table Order_detail {
     (order_id, product_id) [pk]
   }
 }
+
+Ref: Product.category_id > Category.category_id
+Ref: Product.brand_id > Brand.brand_id
+Ref: Product.product_img_id > Product_img.product_img_id
+
+Ref: Product_img.product_id > Product.product_id
+
+Ref: Cart.user_id > User.user_id
+Ref: Cart.product_id > Product.product_id
+
+Ref: Content.product_id > Product.product_id
+
+Ref: Feedback.order_id > Order.order_id
+Ref: Feedback.user_id > User.user_id
+Ref: Feedback.product_id > Product.product_id
+
+Ref: Order.user_id > User.user_id
+Ref: Order.feedback_id > Feedback.feedback_id
+
+Ref: Order_detail.order_id > Order.order_id
+Ref: Order_detail.product_id > Product.product_id
