@@ -1,0 +1,21 @@
+1. Login 
+- username
+- password
+- remember (tick box)
+- button 
++ login 
++ cancel
+- forget password (link)
+
+2. register
+- username
+- fullname
+- password
+- confirm password
+- age
+- phone_number
+- email
+- gender
+
+3. forget password
+- 
