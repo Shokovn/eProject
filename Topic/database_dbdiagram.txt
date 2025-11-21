@@ -1,3 +1,5 @@
+link https://dbdiagram.io/d/69205523228c5bbc1ae9197f
+
 Table User {
   user_id int [pk, increment]
   fullname varchar
